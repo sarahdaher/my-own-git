@@ -1,0 +1,3 @@
+chaine1
+chaine2
+chaine3

@@ -1,0 +1,4 @@
+sarah	hashsarah	1411
+fichier1.txt	hash1	1411
+fichier2.txt	hash2	1411
+dossier1	(null)	1411
