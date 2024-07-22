@@ -9,6 +9,7 @@ Réalisation d’un outil de suivi et de versionnage de code (type Git), en mett
 # Fonctionnement 
 Un MakeFile est présent, pour exécuter le code tapez ```make all``` puis ```make clean```. 
 Ensuite, tapez la commande ```./myGit help``` pour avoir la documentation de chaque fonctionalité du programme.
+Un rapport est présent pour expliquer les fonctions principales du projet ainsi que les structures manipulées
 
 # Auteurs 
 - Maïssa CHEMALI
